@@ -1,0 +1,36 @@
+font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+
+
+
+
+
+Billabong.
+
+
+
+.movingobject:hover{
+      
+    width: 204px;
+    height: 345px;
+    float: right;
+    color: rgb(0, 200, 255);
+    margin-right: 114px;
+    margin-top: -205px;
+    position: relative;
+    border: 1px solid rgb(255, 255, 255);
+}
+
+
+
+
+.phone>.movingobject{
+      
+      width: 204px;
+      height: 345px;
+      float: right;
+      transition-property: movingobject;
+      margin-right: 114px;
+      margin-top: -205px;
+      position: relative;
+      border: 1px solid rgb(255, 255, 255);
+}
